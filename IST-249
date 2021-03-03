@@ -1,6 +1,6 @@
 class IST-249 {
 static void Main (string [] args)
 {
-System.Console.WriteLine("Hello IST-249");
+System.Console.WriteLine("Hello Hello Hello");
 }
 }
