@@ -1,1 +1,7 @@
-class lgknhlkgnlkh
+class-ist-249 
+{
+static void Main (string [] args)
+{
+System.Console.WriteLine("Hello IST-249");
+}
+}
